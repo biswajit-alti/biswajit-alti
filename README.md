@@ -1,5 +1,6 @@
-### Hi there 👋 I’m Biswajit
 <img src = "https://cdn.filestackcontent.com/auto_image/resize=width:750,height:400,fit:crop/compress/cache=expiry:max/19yaFBtDR6q4iapS9sEi">
+### Hi there 
+- 👋 I’m Biswajit
 - 🕵️‍♂️ I’m interested in Data Engineering in AWS 
 - 👨‍🎓 Proficient in Python & Pyspark
 - 🔭 I’m currently working on building data pipelines in AWS & deploying using Terraform
