@@ -1,6 +1,5 @@
 ### Hi there 👋 I’m Biswajit
-[![Header](https://raw.githubusercontent.com/biswajit-alti/<OWNER>/<OWNER>/readme_header.png "Header")](https://cdn.filestackcontent.com/auto_image/resize=width:750,height:400,fit:crop/compress/cache=expiry:max/19yaFBtDR6q4iapS9sEi)
-**biswajit-alti/biswajit-alti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Header](https://raw.githubusercontent.com/biswajit-alti/<OWNER>/<OWNER>/readme_header.png "Header")](https://cdn.filestackcontent.com/auto_image/resize=width:750,height:400,fit:crop/compress/cache=expiry:max/19yaFBtDR6q4iapS9sEi)
 - 🕵️‍♂️ I’m interested in Data Engineering in AWS 
 - 👨‍🎓 Proficient in Python & Pyspark
 - 🔭 I’m currently working on building data pipelines in AWS & deploying using Terraform
